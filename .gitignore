@@ -33,3 +33,7 @@ tags
 *.rustfmt
 
 .idea
+
+# private
+spotifyd.conf 
+cache_directory
